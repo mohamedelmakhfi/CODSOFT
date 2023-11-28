@@ -8,7 +8,7 @@ CODSOFT is a vibrant community focusing on leadership development, learning, and
 
 ## Internship Overview
 - **Tasks for Completion:** Complete at least 3 tasks.
-- **GitHub Repository:** Maintain a separate repository named "CODSOFT" for tasks. [GitHub Repo Link](<insert link>)
+- **GitHub Repository:** Maintain a separate repository named "CODSOFT" for tasks.
 
 ## Task Submission
 - A Task Submission Form will be shared later via email.
