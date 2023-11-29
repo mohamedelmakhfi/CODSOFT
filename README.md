@@ -1,7 +1,5 @@
-# CODSOFT
 
-
-# CODSOFT Java Development Internshipbby EL MAKHFI MOHAMED
+# CODSOFT Java Development Internship by EL MAKHFI MOHAMED
 
 ## About CODSOFT
 CODSOFT is a vibrant community focusing on leadership development, learning, and fostering shared interests.
